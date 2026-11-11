@@ -19,7 +19,7 @@ helper 1.0.0
 bridge 0.1.3
 ```
 
-Each line is the word `helper` or `bridge`, a space, and the version (1 to 23 characters: letters, digits, `.`, `-`, `_`). Upper or lower case and Windows or Unix line endings are fine. The 5th Wheel's one-line form is not accepted here: both lines are needed.
+Each line is the word `helper` or `bridge`, a space, and the version (1 to 23 characters: letters, digits, `.`, `-`, `_`). Upper or lower case and Windows or Unix line endings are fine.
 
 ## How a Helper updates
 
