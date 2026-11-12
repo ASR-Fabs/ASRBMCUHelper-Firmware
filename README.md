@@ -52,4 +52,4 @@ A new ESP32 is flashed once over USB (Arduino IDE, the board setting above). Aft
 - The BMCU flasher is a port of BMCU-Flasher by Paweł Jarczak: MIT. Its notice is shown on the Helper's Flash BMCU page.
 
 ---
-Document history: 1.0 (2026-11-11), written with ASR BMCU Helper 1.0.0-dev.10. 1.1 (2026-11-11): the update start-up and Restart to update (Helper 1.0.0-dev.15).
+Document history: 1.0 (2026-11-11), written with ASR BMCU Helper 1.0.0-dev.10. 1.1 (2026-11-11): the update start-up and Restart to update (Helper 1.0.0-dev.15). Update to user language (1.0.0-dev.17)
