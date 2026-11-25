@@ -1,2 +1,2 @@
-helper 1.1.0-dev.3
+helper 1.1.0-dev.4
 bridge 0.1.3
